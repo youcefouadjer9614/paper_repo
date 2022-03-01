@@ -7,4 +7,4 @@ You need to install the following poackages
 - Python 3.6 +
 - torch 1.1 +
 - cuda 10.1 +
-- ptflops (Flops counter for convolutional neural networks on pytorch) https://pypi.org/project/ptflops/
+- ptflops 0.6.8 + https://pypi.org/project/ptflops/ (Flops counter for convolutional neural networks on pytorch)
