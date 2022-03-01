@@ -10,7 +10,7 @@ This repository contains the implementation of "Towards Towards Self-Supervised 
 ![image](https://github.com/youcefvision/paper_reop/blob/main/media/architecture.PNG)
 
 ### Requirements
-You need to install the following poackages
+You need to install the following packages
 - Python 3.6 +
 - torch 1.1 +
 - cuda 10.1 +
