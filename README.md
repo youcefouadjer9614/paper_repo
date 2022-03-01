@@ -8,3 +8,11 @@ You need to install the following poackages
 - torch 1.1 +
 - cuda 10.1 +
 - ptflops 0.6.8 + https://pypi.org/project/ptflops/ (Flops counter for convolutional neural networks on pytorch)
+### Self-supervised pre-training
+To train the models run the following command:
+
+### Evaluation 
+
+### Inference time and complexity
+
+### Results
