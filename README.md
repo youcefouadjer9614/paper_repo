@@ -16,3 +16,6 @@ To train the models run the following command:
 ### Inference time and complexity
 
 ### Results
+
+### Citation
+Please consider citing our work if you find this repository helpful for your research
