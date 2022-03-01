@@ -7,3 +7,4 @@ You need to install the following poackages
 - Python 3.6 +
 - torch 1.1 +
 - cuda 10.1 +
+- ptflops https://pypi.org/project/ptflops/
