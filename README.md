@@ -5,7 +5,7 @@ This repository contains the implementation of "Towards Towards Self-Supervised 
 
 ![image](https://github.com/youcefvision/paper_reop/blob/main/media/contrastive_learning.PNG)
 
-- Encoder architecture:
+- Encoder architecture uses depth-wise separable convolutions:
 
 ![image](https://github.com/youcefvision/paper_reop/blob/main/media/architecture.PNG)
 
