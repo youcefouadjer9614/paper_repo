@@ -24,5 +24,10 @@ To train the models run the following command:
 
 ### Results
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
