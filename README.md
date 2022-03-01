@@ -2,7 +2,7 @@
 
 This repository contains the implementation of "Towards Towards Self-Supervised Learning of Human Identity from Gesture Patterns" by Youcef Ouadjer, Adnane Mourad, Sid-Ahmed Berrani and Nesrine Bouadjenek.
 
-![image](paper_repo/media/contrastive_learning.png) 
+paper_repo/media/contrastive_learning.png 
 
 ### Requirements
 You need to install the following poackages
