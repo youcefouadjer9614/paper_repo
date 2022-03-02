@@ -25,16 +25,11 @@ To train the models run the following command:
 ### Results
 - User identification
 
-|             |          Grouping           ||
- First Header | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
-
+First header | Second header
+-------------|---------------
+Merged       | Cell 1
+^^           | Cell 2
+^^           | Cell 3
 
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
