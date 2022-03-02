@@ -27,7 +27,13 @@ To train the models run the following command:
 
 Models | GestureNet | MobileNetV1 | MobileNetV2 | EfficientNetB0 | 
 --- | --- | --- | --- |--- |
-Accuracy | 301 | 283 | 290 | 286 |
+Accuracy | XX % | XX % | XX % | XX % |
+
+- User identification on Touchalytics
+
+Models | GestureNet | MobileNetV1 | MobileNetV2 | EfficientNetB0 | 
+--- | --- | --- | --- |--- |
+Accuracy | XX % | XX % | XX % | XX % |
 
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
