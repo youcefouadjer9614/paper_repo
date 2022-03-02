@@ -29,8 +29,8 @@ To train the models run the following command:
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-|               |               |
 | Content Cell  | Content Cell  |
+|               |               |
 
 
 ### Citation
