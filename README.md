@@ -23,11 +23,18 @@ To train the models run the following command:
 ### Inference time and complexity
 
 ### Results
+- User identification
 
-| First Header  | Second Header |
+| Dataset       | Supervision   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   HMOG        |   Supervised  |
+|               |---------------|
+|               |Self-supervised|
+|---------------|---------------|
+| Touchalytics  | Supervised    |
+|               |---------------|  
+|               |Self-supervised|
+|               |               |
 
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
