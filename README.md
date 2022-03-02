@@ -25,9 +25,9 @@ To train the models run the following command:
 ### Results
 - User identification on HMOG Dataset
 
-Models | #1 | #2 | #3 | #4 | #5 | #6 | #7 |
---- | --- | --- | --- |--- |--- |--- |--- |
-Accuracy | 301 | 283 | 290 | 286 | 289 | 285 |286|
+Models | #GestureNet | #MobileNetV1 | #MobileNetV2 | #EfficientNetB0 | 
+--- | --- | --- | --- |--- |
+Accuracy | 301 | 283 | 290 | 286 |
 
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
