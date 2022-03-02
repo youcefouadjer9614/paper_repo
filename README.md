@@ -23,11 +23,11 @@ To train the models run the following command:
 ### Inference time and complexity
 
 ### Results
-- User identification
+- User identification on HMOG Dataset
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 |
+--- | --- | --- | --- |--- |--- |--- |--- |--- |
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 
 
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
