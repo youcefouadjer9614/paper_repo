@@ -26,8 +26,8 @@ To train the models run the following command:
 - User identification
 
 |             |          Grouping           ||
-|First Header | Second Header | Third Header |
-|------------ | :-----------: | -----------: |
+ First Header | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
 Content       |          *Long Cell*        ||
 Content       |   **Cell**    |         Cell |
 
