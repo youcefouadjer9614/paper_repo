@@ -28,6 +28,7 @@ To train the models run the following command:
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
+|               |               |
 | Content Cell  | Content Cell  |
 
 
