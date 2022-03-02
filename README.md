@@ -27,14 +27,14 @@ To train the models run the following command:
 
 | Dataset       | Supervision   |
 | ------------- | ------------- |
-|   HMOG        |   Supervised  |
+|      HMOG     |   Supervised  |
 |               |---------------|
 |               |Self-supervised|
 |---------------|---------------|
 | Touchalytics  | Supervised    |
 |               |---------------|  
 |               |Self-supervised|
-|               |               |
+
 
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
