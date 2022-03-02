@@ -24,13 +24,15 @@ To train the models run the following command:
 
 ### Results
 - User identification
+|             |          Grouping           ||
+|First Header | Second Header | Third Header |
+|------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-|               |               |
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
 
 
 ### Citation
