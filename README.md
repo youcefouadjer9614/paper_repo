@@ -24,16 +24,10 @@ To train the models run the following command:
 
 ### Results
 - User identification
-
-| Dataset       | Supervision   |
+| First Header  | Second Header |
 | ------------- | ------------- |
-|      HMOG     |   Supervised  |
-|               |               |
-|               |Self-supervised|
-|_______________|_______________|
-| Touchalytics  | Supervised    |
-|               |               |  
-|               |Self-supervised|
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ### Citation
