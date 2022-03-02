@@ -30,7 +30,7 @@ To train the models run the following command:
 |      HMOG     |   Supervised  |
 |               |               |
 |               |Self-supervised|
-|---------------|---------------|
+|_______________|_______________|
 | Touchalytics  | Supervised    |
 |               |               |  
 |               |Self-supervised|
