@@ -16,18 +16,44 @@ You need to install the following packages
 - cuda 10.1 +
 - ptflops 0.6.8 + https://pypi.org/project/ptflops/ (Flops counter for convolutional neural networks on pytorch)
 ### Self-supervised pre-training
-To train the models run the following command:
-
+To train the models:
+- Change directory: 
+ `cd ../paper_repo/`
+- Self-supervised pre-training on HMOG dataset:
 ```
-git status
-git add
-git commit
+python main.py --net GestureNet --dataset HMOG_ID --contrastive_learning True --epoch 500
+```
+- Self-supervised pre-training on Touchalytics dataset:
+```
+python main.py --net GestureNet --dataset HMOG_ID --contrastive_learning True --epoch 500
 ```
 
 ### Evaluation 
-
+- Downstream evaluation on HMOG dataset:
+  - User Identification: 
+```
+python test.py --net GestureNet --dataset HMOG_ID
+```
+ - User Verification: 
+ ```
+ python test.py --net GestureNet --dataset HMOG_VER --num_classes 2
+ ```
+ 
+ - Downstream evaluation on Touchalytics dataset:
+  - User Identification: 
+```
+python test.py --net GestureNet --dataset TOUCH_ID
+```
+ - User Verification: 
+ ```
+ python test.py --net GestureNet --dataset TOUCH_VER --num_classes 2
+ ```
 ### Inference time and complexity
-
+- Computation complexity:
+ ```
+ python complexity.py --net GestureNet 
+ ```
+  
 ### Results
 - User identification on HMOG Dataset
 
