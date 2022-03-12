@@ -35,15 +35,15 @@ python main.py --net GestureNet --dataset HMOG_ID --contrastive_learning True --
 python test.py --net GestureNet --dataset HMOG_ID
 ```
    - User Verification: 
- ```
- python test.py --net GestureNet --dataset HMOG_VER --num_classes 2
- ```
+   ```
+   python test.py --net GestureNet --dataset HMOG_VER --num_classes 2
+   ```
  
  - Downstream evaluation on Touchalytics dataset:
     - User Identification: 
-```
-python test.py --net GestureNet --dataset TOUCH_ID
-```
+  ```
+  python test.py --net GestureNet --dataset TOUCH_ID
+  ```
    - User Verification: 
    
  ```
