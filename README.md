@@ -18,6 +18,12 @@ You need to install the following packages
 ### Self-supervised pre-training
 To train the models run the following command:
 
+```
+git status
+git add
+git commit
+```
+
 ### Evaluation 
 
 ### Inference time and complexity
