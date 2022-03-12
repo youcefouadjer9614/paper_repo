@@ -27,13 +27,16 @@ To train the models run the following command:
 
 Models | GestureNet | MobileNetV1 | MobileNetV2 | EfficientNetB0 | 
 --- | --- | --- | --- |--- |
-Accuracy | XX % | XX % | XX % | XX % |
+Accuracy | 79.84 % | 61.4 % | 74.75 % | 89.11 % |
 
 - User identification on Touchalytics
 
 Models | GestureNet | MobileNetV1 | MobileNetV2 | EfficientNetB0 | 
 --- | --- | --- | --- |--- |
-Accuracy | XX % | XX % | XX % | XX % |
+Accuracy | 85 % | 83 % | 88 % | 98 % |
+
+- User verification 
+![image](https://github.com/youcefvision/paper_repo/blob/main/media/verification_accuray.PNG)
 
 ### Citation
 Please consider citing our work if you find this repository helpful for your research
